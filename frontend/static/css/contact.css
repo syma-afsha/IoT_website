@@ -1,0 +1,228 @@
+@media screen and (min-width: 768px) {
+
+  .close a {
+    color: #f8f8f8;
+    font-size: 60px;
+    right: 5%;
+    position: absolute;
+
+
+  }
+
+  .box1 {
+    height: 95vh;
+    width: 90vw;
+    overflow: hidden;
+    margin-top: 1%;
+    position: fixed;
+
+    /* background-color: rgba(153, 205, 50, 0.822); */
+    /* background-image: linear-gradient(to bottom, rgba(153, 205, 50, 0.425), rgba(153, 205, 50, 0.822));
+    background-image: linear-gradient(to bottom, rgba(252, 252, 252, 0.425), rgba(255, 255, 255, 0.822)); */
+    /* background-image: linear-gradient(to bottom, rgba(94, 86, 86, 0.568), rgba(255, 255, 255, 0.822)); */
+    color: rgb(245, 14, 37);
+    border-radius: 25px;
+    margin-left: 5%;
+    /* background-color: rgb(245, 14, 37); */
+    background-color: rgb(223, 141, 141);
+    box-shadow: 2px 2px 30px -7px #1d1e22;
+  }
+
+  .logo-responsive4 {
+    width: 100vw;
+    height: 100vh;
+  }
+
+  .send {
+
+    margin-top: 2%;
+    color: rgb(245, 14, 37);
+    text-align: center;
+  }
+
+  .hr {
+    margin-top: 1%;
+    margin-bottom: 2%;
+    margin-left: 5%;
+    width: 90%;
+    border: 1.5px solid rgb(245, 14, 37);
+  }
+
+  .contactContainer {
+    padding-left: 15%;
+    column-gap: 10px;
+
+    width: 80%;
+  }
+
+  .form2 {
+    padding-top: 2%;
+
+
+  }
+
+  .form5 {
+    padding-top: 2%;
+  }
+
+  .form4 {
+    padding-top: 2%;
+  }
+
+  .form6 {
+    padding-top: 2%;
+  }
+
+  .name {
+    width: 90%;
+
+    height: 55px;
+    border-radius: 10px;
+
+
+  }
+
+  .contactbutton {
+    margin-top: 5%;
+    border-radius: 25px;
+    background-color: rgb(245, 14, 37);
+    width: 20%;
+    height: 50px;
+    margin-left: 40%;
+    border-color: rgb(245, 14, 37);
+    color: bisque;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 22px;
+  }
+
+  .email {
+
+    width: 90%;
+    height: 55px;
+    border-radius: 10px;
+
+  }
+
+  .mesg {
+    width: 95%;
+    height: 150px;
+    border-radius: 10px;
+  }
+
+  .formContact {
+    column-gap: 5px;
+    padding: 5px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+
+  .box1 {
+    height: 100%;
+    width: 90vw;
+
+
+    position: fixed;
+
+    /* background-color: rgba(153, 205, 50, 0.822); */
+    /* background-image: linear-gradient(to bottom, rgba(153, 205, 50, 0.425), rgba(153, 205, 50, 0.822));
+      background-image: linear-gradient(to bottom, rgba(252, 252, 252, 0.425), rgba(255, 255, 255, 0.822)); */
+    /* background-image: linear-gradient(to bottom, rgba(94, 86, 86, 0.568), rgba(255, 255, 255, 0.822)); */
+    color: rgb(245, 14, 37);
+    border-radius: 25px;
+    margin-left: 5%;
+    /* background-color: rgb(245, 14, 37); */
+    background-color: rgb(223, 141, 141);
+    box-shadow: 2px 2px 30px -7px #1d1e22;
+  }
+
+  .send {
+    text-align: center;
+    margin-top: 12%;
+    color: rgb(245, 14, 37);
+  }
+
+  .hr {
+    margin-top: 1%;
+    margin-bottom: 2%;
+    margin-left: 5%;
+    width: 90%;
+    border: 1.5px solid rgb(245, 14, 37);
+  }
+
+  .contactContainer {
+
+    padding-left: 10%;
+
+    width: 100%;
+  }
+
+  .form2 {
+    width: 100%;
+    padding-top: 2%;
+
+
+  }
+
+  .form5 {
+    padding-top: 2%;
+  }
+
+  .form4 {
+    padding-top: 2%;
+  }
+
+  .form6 {
+    padding-top: 2%;
+  }
+
+  .name {
+    width: 300px;
+
+    height: 55px;
+    border-radius: 10px;
+
+
+  }
+
+  .contactbutton {
+    margin-top: 5%;
+    border-radius: 25px;
+    background-color: rgb(245, 14, 37);
+    width: 90%;
+    border-color: rgb(245, 14, 37);
+    height: 50px;
+    margin-left: 50%;
+    color: bisque;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 22px;
+  }
+
+  .email {
+
+    width: 300px;
+    height: 55px;
+    border-radius: 10px;
+
+  }
+
+  .mesg {
+    width: 300px;
+    height: 100px;
+    border-radius: 10px;
+  }
+
+  .formContact {
+    column-gap: 5px;
+    padding: 5px;
+  }
+
+  .close a {
+    color: #f8f8f8;
+    font-size: 35px;
+    right: 5%;
+    position: absolute;
+
+
+  }
+}

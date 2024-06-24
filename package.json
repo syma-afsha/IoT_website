@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
+    "aos": "^2.3.4",
+    "react-animation-on-scroll": "^5.1.0",
+    "react-icons": "^4.4.0",
+    "react-scroll-motion": "^0.3.0",
+    "react-slideshow-image": "^4.0.4"
+  }
+}
